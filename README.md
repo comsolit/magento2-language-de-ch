@@ -8,7 +8,7 @@ Facts
 
 Requirements
 ------------
-- PHP  5.6 / 7.0
+- PHP  5.6 / 7.0 / 7.1 / 7.2
 
 Compatibility
 -------------
